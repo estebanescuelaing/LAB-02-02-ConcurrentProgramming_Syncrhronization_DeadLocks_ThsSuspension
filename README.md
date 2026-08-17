@@ -3,10 +3,11 @@
 ### Arquitecturas de Software – ARSW
 
 ## Estudiantes:
-### Keyla Yunuette Serna Illescas
-### Esteban Valente Arenas
+### --Keyla Yunuette Serna Illescas
+### --Esteban Valente Arenas
 
 ## Evidencia: 
+### -- 
 
 #### Ejercicio – programación concurrente, condiciones de carrera y sincronización de hilos. EJERCICIO INDIVIDUAL O EN PAREJAS.
 

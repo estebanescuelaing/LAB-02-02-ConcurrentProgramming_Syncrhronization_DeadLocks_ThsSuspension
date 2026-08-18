@@ -7,7 +7,7 @@
 ### --Esteban Valente Arenas
 
 ## Evidencia: 
-### -- RESPUESTAS.txt
+### -- LAB-02.pdf
 
 #### Ejercicio – programación concurrente, condiciones de carrera y sincronización de hilos. EJERCICIO INDIVIDUAL O EN PAREJAS.
 

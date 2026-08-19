@@ -7,7 +7,8 @@
 ### --Esteban Valente Arenas
 
 ## Evidencia: 
-## -- Reporte_Laboratorio2_ARSW.pdf
+## Parte 2 apartir de Página 13
+## Reporte_Laboratorio2_ARSW.pdf
 
 #### Ejercicio – programación concurrente, condiciones de carrera y sincronización de hilos. EJERCICIO INDIVIDUAL O EN PAREJAS.
 
